@@ -1,4 +1,4 @@
-import controlP5.*;//ライブラリ－
+import controlP5.*;//ライブラリ
 ControlP5[] system_btn = new ControlP5[4];
 Button start_btn,startHover_btn,play_btn,playHover_btn;
 
